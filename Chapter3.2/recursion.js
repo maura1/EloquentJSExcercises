@@ -31,3 +31,6 @@ function isEven(num) {
 console.log(isEven(50));
 console.log(isEven(75));
 console.log(isEven(-1));
+
+
+//if the number is greater than 1, keep subtracting 2 from the number
